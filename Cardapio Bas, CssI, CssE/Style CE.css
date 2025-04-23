@@ -1,0 +1,27 @@
+
+
+/*Corpo*/
+
+body {background-color: rgb(204, 118, 13);}
+
+/*Classes*/
+
+.center {text-align: center;} 
+.sml {border-color: rgb(94, 93, 93); background-color: lightskyblue; width: 60%;} /* Tabela Inferior */
+.clh {background-color: lightsalmon; font-size: large; font-weight: bolder;} /* Head Tabela Principal */
+
+/*Tabelas*/
+
+table {border: 3px solid; width: 80%; background-color: tomato; margin: auto ;}
+th,td {border: 3px solid;}
+
+/*Headings*/
+
+h1 {color: rgb(141, 198, 236); font-size: 400%; border: 2px solid;} /* Titulo Principal */
+h2 {color: blueviolet; font-size: 10;} /* Titulo Footer */
+h3 {color: rgb(141, 198, 236);} /* Preços */
+h4 {color: black; font-weight: bold; font-size: large;} /*Nome dos Pratos */
+
+/*Parágrafos*/
+
+p {color: yellow; font-style: italic; font-size: x-large;} 
